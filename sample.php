@@ -6,7 +6,7 @@
         <title>Paper Trail</title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel='styles.1.01.css' href="styles.css">
+        <link rel='stylesheet' href="styles.1.01.css">
     </head>
     <article>
         <div class="storyInfo">
