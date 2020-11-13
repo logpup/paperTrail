@@ -11,7 +11,7 @@
     <article>
         <div class="storyInfo">
             <h2>
-                ELON MUSK’S TOTALLY AWFUL, BATSHIT-CRAZY, COMPLETELY BONKERS, MOST EXCELLENT YEAR
+                PELON MUSK’S TOTALLY AWFUL, BATSHIT-CRAZY, COMPLETELY BONKERS, MOST EXCELLENT YEAR
             </h2>
             <h4>
                 In 2020, the COVID-doubting, media-hating Twitterholic CEO became the third-richest man alive, SpaceX launched two astronauts into orbit, and Tesla became the most valuable car company on the planet. Inside the mind of Silicon Valley’s most vainglorious villain.
