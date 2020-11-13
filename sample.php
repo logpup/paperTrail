@@ -18,7 +18,7 @@
             </h4>
         </div>
         <div class="storyMain">
-            <img class="elon" src="elon.jpg" alt="Elon Musk illustration">
+            <img id="elon" src="elon.jpg" alt="Elon Musk illustration">
             <p>
                 Elon Musk is on a mission. He’s on a mission to Mars. He’s on a mission to save humanity from its reliance on fossil fuels, which could destroy the planet and kill us all. He’s on a mission to save us from artificial intelligence algorithms going rogue and machines ending human life as we know it. He’s on a mission to help save a group of boys trapped underground in Thailand. A mission to transport people from Los Angeles to San Francisco in giant air tubes. A mission to build ventilators for hamstrung hospitals during the coronavirus pandemic. He’s on a mission to prove the coronavirus fatality rate is greatly overstated. To dig tunnels underground to alleviate the fatuous cycle of traffic jams. To save journalism. To mitigate the effects of climate change. To transport people in earthbound rockets from one continent to the next in mere minutes. To inhabit other planets before the sun explodes and turns our oceans into boiling vats of water, our skies into steam-filled death, our lands into carbon crusts of darkness. He’s on a mission to inhabit other star systems. All of these missions are completely possible in the realm of physics and science, especially with Elon Musk’s brain working to solve these problems.
             </p>
